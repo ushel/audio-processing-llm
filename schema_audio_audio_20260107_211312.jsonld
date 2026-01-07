@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "AudioObject",
+  "mentions": [
+    {
+      "@type": "Product",
+      "name": "Groundworks"
+    }
+  ],
+  "metrics": {
+    "input_tokens": 2542,
+    "output_tokens": 62,
+    "estimated_cost_usd": 0.000918,
+    "timings_seconds": {
+      "upload": 5.9,
+      "file_processing": 0.3,
+      "inference": 15.65,
+      "text_extraction": 0.0,
+      "json_parsing": 0.0,
+      "total_execution": 21.89
+    }
+  }
+}
